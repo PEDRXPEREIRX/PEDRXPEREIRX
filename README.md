@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-[Mini Portfólio](https://pedrxpereirx.github.io/mini-portfolio/)
+[Apresentação](https://pedrxpereirx.github.io/mini-portfolio/)
 
  <div>
    <a href="https://github.com/PEDRXPEREIRX">
